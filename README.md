@@ -1,11 +1,24 @@
 ## Sales Report :
 
+-  **Data Modeling View:** 
+
+
+![image](https://github.com/Satyasrinivas-d/Excel--Sales--Analytics/assets/67457557/359ebcaa-722a-453f-94ff-d68d96ce12ea)
+
+
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a customer performance report :
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+
+   ![image](https://github.com/Satyasrinivas-d/Excel--Sales--Analytics/assets/67457557/a26b879f-1f13-470f-988d-782932571bd4) 
+
+    **2.** Conduct a comprehensive comparison between market performance and sales targets
+
+
+  ![image](https://github.com/Satyasrinivas-d/Excel--Sales--Analytics/assets/67457557/c4897dbb-85da-4859-a847-41071ba62fc9)
+)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -18,10 +31,19 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by Fiscal Year :
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
+![image](https://github.com/Satyasrinivas-d/Excel--Sales--Analytics/assets/67457557/8949d8fc-7d86-4fe2-9423-f3252c4770b2)
+
+
+   **2.** Create Profit and Loss (P&L) reports by Months :
+
+
+   ![image](https://github.com/Satyasrinivas-d/Excel--Sales--Analytics/assets/67457557/72d00e39-704a-4609-9780-abc6d5cff5f6)
+
+   
+  
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
